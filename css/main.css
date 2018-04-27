@@ -1,5 +1,46 @@
+/*General*/
+.blue {
+  color: #2C5485;
+}
+
+/*header*/
+.height95 {
+  height: 95px;
+}
+
+.padding0 {
+  padding-top: 0;
+  padding-left: 0;
+}
+
+.padding20 {
+  padding: 20px;
+}
+
+.big-letter {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.nav li a:hover {
+  color: #0EA6E1;
+}
+/*initial carrousel*/
+
+
+.photo-circle {
+  width: 50%;
+}
+
+/**/
 .background-image {
   background-image: url(assets/images/fondo2.png);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+/*footer*/
+footer {
+  color: aliceblue;
+  background-color: #015486;
 }
