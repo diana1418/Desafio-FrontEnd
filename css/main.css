@@ -3,7 +3,7 @@
   color: #2C5485;
 }
 
-/*header*/
+/*Header*/
 .height95 {
   height: 95px;
 }
@@ -25,22 +25,100 @@
 .nav li a:hover {
   color: #0EA6E1;
 }
-/*initial carrousel*/
-
-
-.photo-circle {
-  width: 50%;
+/*Initial Carrousel*/
+.bold {
+  font-weight: bold;
 }
 
-/**/
+.blue-text-carrousel {
+  color: #517BA6;
+}
+
+.size16 {
+  font-size: 16px;
+}
+
+/*About us*/
+.width500 {
+  width: 500px;
+}
+
+.line-height1 {
+  line-height: 1.5em;
+}
+
+.word-spacing1 {
+  word-spacing: 0.5em;
+}
+
+/*International Standars*/
 .background-image {
-  background-image: url(assets/images/fondo2.png);
+  background-image: url(../assets/images/fondo2.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: bottom;
 }
 
-/*footer*/
+.margin-bottom40 {
+  margin-bottom: 40px;
+}
+
+.margin-top40 {
+  margin-top: 40px;
+}
+
+.white-text {
+  color: aliceblue;
+}
+
+.height150 {
+  height: 150px;
+}
+
+/*Contact Us*/
+.block {
+  display: block;
+}
+
+.size40 {
+  font-size: 40px;
+}
+
+.margin-top20 {
+  margin-top: 20px;
+}
+
+.margin-bottom20 {
+  margin-bottom: 20px;
+}
+
+.gray {
+  color: #ABABAB;
+}
+
+.margin-left25 {
+  margin-left: 10%;
+}
+
+.margin-top50 {
+  margin-top: 50%;
+}
+
+.underline {
+  text-decoration: underline #015486;
+}
+
+/*Footer*/
 footer {
   color: aliceblue;
   background-color: #015486;
 }
+
+.height80 {
+  height: 80px;
+}
+
+.margin-top30 {
+  margin-top: 30px;
+}
+
