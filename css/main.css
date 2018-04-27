@@ -35,20 +35,20 @@
 }
 
 .size16 {
-  font-size: 16px;
+  font-size: 15px;
+}
+
+.text-justify {
+  text-align: justify;
 }
 
 /*About us*/
-.width500 {
-  width: 500px;
+.width300 {
+  width: 300px;
 }
 
 .line-height1 {
   line-height: 1.5em;
-}
-
-.word-spacing1 {
-  word-spacing: 0.5em;
 }
 
 /*International Standars*/
@@ -96,16 +96,32 @@
   color: #ABABAB;
 }
 
-.margin-left25 {
-  margin-left: 10%;
+.margin-left20 {
+  margin-left: 20%;
 }
 
-.margin-top50 {
-  margin-top: 50%;
+.margin-top70 {
+  margin-top: 70%;
 }
 
 .underline {
   text-decoration: underline #015486;
+}
+
+.margin-top30 {
+  margin-top: 30px;
+}
+
+.width60 {
+  width: 60%;
+}
+
+.margin-left55 {
+  margin-left: 55%;
+}
+
+.line {
+  width: 50%;
 }
 
 /*Footer*/
